@@ -15,6 +15,15 @@ Powyższe zdjęcie przedstawia topologię projektu, ukazując główne komponent
 ### Slow Post
 Do przeprowadzenia testowych ataków zostanie użyty skrypt generujący ataki Slow POST. Wykorzytsne do tego będzie narzędzie slowhttptest dostępne pod linkiem https://www.kali.org/tools/slowhttptest/.
 
+Poniżej linki do narzędzi generujących różnego rodzaju ataki. W zależności od działania danych skryptów/programów użyjemy jednego lub kilku z tej listy:
+SYN flood albo UDP flood:
+http://www.hping.org/hping3.html 
+https://www.hacking.pl/hping3/
+
+DNS flood:
+https://charlesreid1.com/wiki/DoS/DNSSmurf
+LOIC TCP/UDP/HTTP flood : https://sourceforge.net/projects/loic/ 
+Różnego rodzaju ataki: https://sourceforge.net/p/netstressng/wiki/Home/
 ## Skład zespołu
 
 1. **Hubert Majdański**
