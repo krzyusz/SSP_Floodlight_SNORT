@@ -38,6 +38,12 @@ https://otg.dev/
 ### Trafgen - multithreaded network packet generator
 https://man7.org/linux/man-pages/man8/trafgen.8.html
 
+### PyTgen
+https://github.com/reissmann/PyTgen
+
+### PacketSender
+https://github.com/dannagle/PacketSender
+
 ## Skład zespołu
 
 1. **Hubert Majdański**
