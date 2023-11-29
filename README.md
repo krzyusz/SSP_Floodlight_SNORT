@@ -10,10 +10,10 @@ Celem projektu jest dostarczenie kompleksowego rozwiązania bezpieczeństwa siec
 
 Powyższe zdjęcie przedstawia topologię projektu, ukazując główne komponenty systemu oraz ich wzajemne połączenia.
 
-## Skryptu generujące ataki
+## Skrypty generujące ataki
 
 ### Slow Post
-Do przeprowadzenia testowych ataków zostanie użyty skrypt generujący ataki Slow POST. Wykorzytsne do tego będzie narzędzie slowhttptest dostępne pod linkiem https://www.kali.org/tools/slowhttptest/.
+Do przeprowadzenia testowych ataków zostanie użyty skrypt generujący ataki Slow POST. Wykorzystane do tego będzie narzędzie slowhttptest dostępne pod linkiem https://www.kali.org/tools/slowhttptest/.
 
 Poniżej linki do narzędzi generujących różnego rodzaju ataki. W zależności od działania danych skryptów/programów użyjemy jednego lub kilku z tej listy:
 ### SYN flood albo UDP flood:
@@ -26,6 +26,18 @@ https://charlesreid1.com/wiki/DoS/DNSSmurf
 https://sourceforge.net/projects/loic/ 
 ### Różnego rodzaju ataki: 
 https://sourceforge.net/p/netstressng/wiki/Home/
+
+## Narzędzia generujące ruch sieciowy
+
+### Iperf
+https://iperf.fr/
+
+### Open Traffic Generator
+https://otg.dev/
+
+### Trafgen - multithreaded network packet generator
+https://man7.org/linux/man-pages/man8/trafgen.8.html
+
 ## Skład zespołu
 
 1. **Hubert Majdański**
