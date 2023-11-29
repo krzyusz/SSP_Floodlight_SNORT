@@ -10,6 +10,11 @@ Celem projektu jest dostarczenie kompleksowego rozwiązania bezpieczeństwa siec
 
 Powyższe zdjęcie przedstawia topologię projektu, ukazując główne komponenty systemu oraz ich wzajemne połączenia.
 
+## Skryptu generujące ataki
+
+### Slow Post
+Do przeprowadzenia testowych ataków zostanie użyty skrypt generujący ataki Slow POST. Wykorzytsne do tego będzie narzędzie slowhttptest dostępne pod linkiem https://www.kali.org/tools/slowhttptest/.
+
 ## Skład zespołu
 
 1. **Hubert Majdański**
