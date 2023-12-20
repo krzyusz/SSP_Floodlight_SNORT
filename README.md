@@ -1,4 +1,4 @@
-![image](https://github.com/krzyusz/SSP_Floodlight_SNORT/assets/59488205/d0cef9eb-8011-408e-b1b2-744f26d7cabf)# Projekt - Sieci Sterowane Programowo
+# Projekt - Sieci Sterowane Programowo
 
 ## Sterownik floodlight w zastosowaniu jako firewall współpracujący z aplikacją SNORT 
 
